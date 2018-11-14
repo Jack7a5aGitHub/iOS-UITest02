@@ -1,0 +1,4 @@
+github "Alamofire/Alamofire"
+github "SVProgressHUD/SVProgressHUD"
+github "ashleymills/Reachability.swift"
+github "onevcat/Kingfisher" == 4.0
